@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">shift app 2</string>
+    <string name="notification_id">Уведомления приложения ШИФТ</string>
+    <string name="profile">profile</string>
+</resources>
